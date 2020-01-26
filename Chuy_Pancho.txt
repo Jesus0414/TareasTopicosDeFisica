@@ -1,0 +1,87 @@
+cd
+cls/clear=limpiar
+ls= listar
+cd ..= retroceder a la carpeta anterior
+start = inicia aplicación
+mkdir = (make directory)
+explorer. = explorador de carpetas.
+explorer . = nos abre la ruta en el explorador de carpetas.
+new-item = para crear un nuevo archivo
+archivo.html; archivo.css; archivo.js;
+code . = abre el archivo en visual studio code{
+		únicamente si se tiene instalado}
+app --version = para saber la version de una aplicacion
+git add . = para agragar los cambios
+git status = para checar el estado de los archivos
+git commit -m "titulo de lo que quieres subir" =>
+=> 
+git push = para publicar en linea en git
+git clone "Link del proyecto" = para clonar un proyecto 
+href="ctl+space"
+git pull = para descargar nuevos cambios de git hub
+ctl+f5 = borrar la cache del navegador
+git checkout -b (Nombre del branch)
+curl = privilegios de superusuarios
+
+
+
+the shader = el paradigma mas basico para usar un 
+shader es Lambert
+
+para iniciar o loggear al sql necesuta estar encendida
+y para eso buscador de windows>servicios>sql server>
+
+
+usShader/fsShader
+como representar un color 
+posiciones(x,y,z,w)/colores(R,G,B,A)(A=alpha)
+
+
+
+httpPost 
+sqlUpdate
+en el controlador, declarar un nuevo metodo, que sirva para hacer un update
+
+VertexShader:
+es una seccion de computer graficas que se va a 
+ejecutar n veces que se tiene que hacer. cada vertice se
+ejecutara un million de veces.
+
+FregmentShader:
+
+Interpolación-Lineal:
+
+
+
+
+
+¿Cómo hacer una consulta?  
+1.-selección
+2.-insertar
+3.-updates (especificar a que cosa)
+4.-
+
+
+
+
+
+
+1.-que es una api en programacion? donde se usa? y 
+un uso practico que puedas explicar
+2.-que es SQL, cual es la definición, en que se usa?
+que tiene que ver el SQL con las bases de datos,
+y un ejemplo
+
+3.- que es una base de datos?, como se le define?
+cual es la diferencia entre dato e informacion, 
+y un ejemplo practico(tipos de administradores de 
+tipos de datos{3o4})
+4.- que es .NET? que es .NETCORE?
+
+Que es html? es un lenguaje de marcado de hipertexto
+
+
+Tarea:merch entre dos branch
+
+Usuario:software
+Contrase:caro

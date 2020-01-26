@@ -1,0 +1,11 @@
+Nomrbe de la instacia:
+Server=localhost\SQLEXPRESS;Database=master;Trusted_Connection=True;
+
+Administradores de SQL:
+C:\Program Files\Microsoft SQL Server\140\Setup Bootstrap\Log\20191009_095753
+
+Características instaladas:
+C:\SQLServer2017Media\Express_ENU
+
+Versión:
+C:\Program Files\Microsoft SQL Server\140\SSEI\Resources
